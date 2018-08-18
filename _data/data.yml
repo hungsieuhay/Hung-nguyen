@@ -14,8 +14,14 @@ sidebar:
     # Sidebar links
     email: hungng1810@gmail.com
     phone: 0165 303 6110
-    github: hungsieuhay
+    website: blog.webjeda.com #do not add http://
+     github: hungsieuhay
     linked in: hungng1810@gmail.com
+    gitlab:
+    bitbucket:
+    twitter: '@webjeda'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
     languages:
       - idiom: Vietnamese
         level: Native
